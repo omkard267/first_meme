@@ -1,0 +1,23 @@
+div{
+    margin-top: 100px;
+    width: 50%;
+    margin-left:25%;
+    text-align: center;
+}
+h1{
+    text-transform: capitalize;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    font-size: 3rem;
+}
+p{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+#ppx{
+    border: 5px white solid;
+    width:100%;
+}
+html{
+    background-color: black;
+}
